@@ -1,0 +1,16 @@
+#!/usr/bin/env php
+<?php
+// application.php
+
+require __DIR__.'/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Console\Command\SayHiCommand;
+
+$application = new Application();
+$application->setName("DEMO TEST-CONSOLE APP");
+
+$application->add(new SayHiCommand());
+// $application->add(new SayHi2Command());
+
+$application->run();

@@ -1,0 +1,8 @@
+{
+    "name": "test/test",
+    "description": "test composer test",
+    "type": "project",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "bret",
+    "email": "maill.mail.com",
+    "address": {
+      "street": "Kulas",
+      "suite": "apt",
+      "city": "fmoew",
+      "geo": {
+        "lat": "37",
+        "lng": "938"
+      }
+    },
+    "phone": "493905",
+    "website": [
+      "google.com",
+      "shoppe.id"
+    ],
+    "company": {
+      "name": "romaguera",
+      "catchPhrase": "multivblasmskd"
+    },
+    "date": "2020-07-17 10:42:30 -0400",
+    "texts": "Speedily say has suitable disposal add boy.  On forth doubt miles of child. Exercise joy man children rejoiced. Yet uncommonly his ten who diminution astonished. Demesne new manners  savings staying had.\n",
+    "boolean": true,
+    "empty": null
+  }
